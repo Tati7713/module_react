@@ -1,0 +1,12 @@
+.Users {
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.user {
+    border: 2px solid grey;
+    padding: 10px;
+    width: 40%;
+    margin-top: 50px;
+}
